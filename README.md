@@ -13,8 +13,7 @@
 ## 🚀 About Me
 
 - 💻 Passionate about building scalable Full Stack applications and AI-powered products.
-- 🧠 Strong interest in Backend Development, System Design, and Machine Learning.
-- 🌱 Currently learning **Cloud Computing, Docker, Kubernetes, and System Design.**
+- 🧠 Strong interest in Full Stack Development.
 - 🏆 Solved **900+ DSA problems** across multiple coding platforms.
 - ⚡ Love solving challenging algorithmic problems and participating in coding contests.
 - 🤝 Open to **Software Engineering Internship and Full-Time Opportunities.**
@@ -55,17 +54,6 @@
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-### 🤖 AI & Machine Learning
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge)
 
 ---
 
@@ -92,21 +80,6 @@
 - MongoDB
 - Firebase Authentication
 - OpenAI API
-
----
-
-## 📰 NeuraLens
-
-> AI toolkit for detecting misinformation using OCR, LLMs, reverse image search, and multimodal verification.
-
-**Tech Stack**
-
-- React
-- FastAPI
-- Celery
-- Redis
-- Gemini API
-- Hugging Face
 
 ---
 
@@ -153,15 +126,6 @@
 - 🚀 Active on LeetCode(1707 Rating), GeeksforGeeks, Codeforces(1104 Rating) & CSES
 - 💡 Strong foundation in Data Structures & Algorithms
 
----
-
-# 🌱 Currently Learning
-
-- ☁️ Cloud Computing
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🏗️ System Design
-- ⚡ Distributed Systems
 
 ---
 
@@ -222,8 +186,7 @@ public:
     };
 
     vector<string> database = {
-        "MongoDB",
-        "Redis"
+        "MongoDB"
     };
 
     vector<string> interests = {
