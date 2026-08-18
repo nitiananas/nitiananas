@@ -110,16 +110,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nitiananas&theme=tokyonight"/>
-
-</p>
-
----
-
 # 💻 Competitive Programming
 
 - 🏆 900+ DSA Problems Solved
